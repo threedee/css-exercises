@@ -1,0 +1,19 @@
+.odd-element {
+    background-color: lightcoral;
+    font-family: "Verdana", sans-serif;
+}
+
+.blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+.bold-text {
+    font-size: 24px;
+}
+
+.green-text {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
